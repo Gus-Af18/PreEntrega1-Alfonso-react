@@ -20,8 +20,10 @@ h1, h2
     padding: 0;
     gap: 2rem;
 }
+.cart-div{
+    display: flex;
+}
 #cart-img{
-    display: block;
     width: 1rem; 
     margin-left: 50%;
     gap: 1rem;  
