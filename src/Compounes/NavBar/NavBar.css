@@ -1,0 +1,30 @@
+/*reset*/
+*{
+    box-sizing: border-box;
+}
+/*estilos generales*/
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    text-align: center;
+    
+}
+h1, h2
+{
+    font-size: 60px;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+}
+#cart-img{
+    display: block;
+    width: 1rem; 
+    margin-left: 50%;
+    gap: 1rem;  
+}
+
+
